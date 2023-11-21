@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @Kevin Bejarano Lancheros
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+¡Hola! Soy Kevin Bejaranp, un entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar la rutina diaria. me considero un explorador, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Experiencia con bases de datos como MySQL, pruebas unitarias con JUNIT, construcción de API REST y framework Spring Boot. dominio del español para una comunicación efectiva a nivel internacional. Listo para afrontar desafíos analíticos y de programación.
 
 
-Estudiante de informática apasionado por el desarrollo de software back-end. 
-En busca de oportunidades para aprender y contribuir al éxito de un equipo de desarrollo. 
-Comprometido con la creación de soluciones eficientes y escalables.
+ʟᴀɴɢᴜᴀɢᴇꜱ 👩‍💻	ʀᴇᴀᴄʜ ᴍᴇ ᴏᴜᴛ ᴏɴ 📱
+ 
+   
+ 	  
 
-Lenguajes de programación: [ Java, Python ]
-Bases de datos: [ H2, MySql ]
-Control de versiones: [ GitHub ]
 
+    🔭 Actualmente estoy trabajando en un proyecto de reservas de vuelos y métodos numéricos con python.
+
+🌱 Actualmente estoy aprendiendo Desarrollo Back-End.
+
+💬 Pregúntame sobre Java, Python
+
+📫 Cómo comunicarse conmigo kevin.bejarano00@gmail.com
