@@ -3,7 +3,7 @@
 
 ʟᴀɴɢᴜᴀɢᴇꜱ 👩‍💻	ʀᴇᴀᴄʜ ᴍᴇ ᴏᴜᴛ ᴏɴ 📱
  
-   
+  arduino git java matlab mysql photoshop postman python spring
  	  
 
 
